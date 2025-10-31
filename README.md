@@ -15,6 +15,11 @@ Student Directory
 Всё адаптировано под разные экраны и полностью оптимизировано для быстрой работы в браузере.
  Установка и запуск
 
+
+скриншот
+1) screenshots/add.png
+2) screenshots/dark.png
+3) screenshots/home.png
 Чтобы запустить проект локально, выполните следующие шаги:
 
 ```bash
@@ -78,5 +83,8 @@ student-directory/
 │  └─ styles/
 │     └─ base.css
 └─ public/
+
+
+
 Автор проекта
 Akniyet Akkos
